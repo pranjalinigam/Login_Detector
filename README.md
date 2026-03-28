@@ -207,8 +207,8 @@ npm run dev
 ```
 ## Author & Contact
 
-Created by Harshit
+Created by Pranjali Nigam
 
-GitHub: https://github.com/harshitsr04
+GitHub: https://github.com/pranjalinigam
 
 ⭐ If you like this project, consider giving it a star on GitHub!
